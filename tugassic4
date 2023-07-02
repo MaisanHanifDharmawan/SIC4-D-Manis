@@ -1,0 +1,6 @@
+git init
+git add tugas.md
+git commit -m "commit pertama kita coba"
+git branch -M main
+git remote add origin https://github.com/MaisanHanifDharmawan/SIC4-D-Manis.git
+git push -u origin main
